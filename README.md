@@ -1,4 +1,4 @@
-# MusicPlayer
+# MusicPlayer With JavaScript
 
 A simple mini-project for train and masterd frontEnd development 
 
